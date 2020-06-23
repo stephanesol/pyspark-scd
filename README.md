@@ -94,7 +94,7 @@ New Fields:
 ### Design Choices:
 
 1. Chose programatic syntax over SQL queries for consistency.
-2. Used transformtion chaining to isolate code chunks and improve readability.
+2. Used transformation chaining to isolate code chunks and improve readability.
 3. Prioritized demonstrating end to end ETL pipeline over performance optimization.
 4. Avoided joins where possible.
 
