@@ -1,0 +1,495 @@
+snapshot_date,employee_number,status,first_name,last_name,gender,email,phone_number,salary,termination_date,change_status,changed_status_date
+2020-01-01,25,Active,Stella,Hunt,Female,s.hunt@newmail.com,194-7397-62,122746,NULL,New,2020-01-01
+2020-01-02,25,Active,Stella,Hunt,Female,s.hunt@newmail.com,194-7397-62,122746,NULL,No Change,2020-01-01
+2020-01-03,15,Active,Adelaide,Owens,Female,a.owens@newmail.com,082-2307-17,130388,NULL,Changed,2020-01-01
+2020-01-03,25,Active,Stella,Hunt,Female,s.hunt@newmail.com,194-7397-62,122746,NULL,No Change,2020-01-01
+2020-01-04,15,Active,Adelaide,Owens,Female,a.owens@newmail.com,082-2307-17,130388,NULL,No Change,2020-01-01
+2020-01-05,15,Active,Adelaide,Owens,Female,a.owens@newmail.com,082-2307-17,130388,NULL,No Change,2020-01-01
+2020-01-01,13,Active,Wilson,Morrison,Male,w.morrison@newmail.com,152-0725-67,41004,NULL,New,2020-01-01
+2020-01-01,24,Active,Julia,Cunningham,Female,j.cunningham@newmail.com,068-9978-85,31744,NULL,New,2020-01-01
+2020-01-06,15,Active,Adelaide,Nolan,Female,a.owens@newmail.com,082-2307-17,130388,NULL,Changed,2020-01-06
+2020-01-02,15,Active,Adelaide,Owens,Female,a.owens@newmail.com,082-2307-17,139999,NULL,Changed,2020-01-02
+2020-01-01,15,Active,Adelaide,Owens,Female,a.owens@newmail.com,082-2307-17,130388,NULL,New,2020-01-01
+2020-01-01,31,Active,Dexter,Mitchell,Male,d.mitchell@newmail.com,347-2261-81,100671,NULL,New,2020-01-01
+2020-01-01,34,Active,Florrie,Perry,Female,f.perry@newmail.com,140-5497-36,76212,NULL,New,2020-01-01
+2020-01-01,28,Active,Elise,Farrell,Female,e.farrell@newmail.com,485-8347-57,101616,NULL,New,2020-01-01
+2020-01-01,26,Active,Marcus,Casey,Male,m.casey@newmail.com,869-0917-23,44508,NULL,New,2020-01-01
+2020-01-01,27,Active,Adrianna,Montgomery,Female,a.montgomery@newmail.com,131-6228-32,77391,NULL,New,2020-01-01
+2020-01-01,44,Active,Derek,Wells,Male,d.wells@newmail.com,570-4726-83,136224,NULL,New,2020-01-01
+2020-01-01,12,Active,Jack,Brooks,Male,j.brooks@newmail.com,020-1068-47,77024,NULL,New,2020-01-01
+2020-01-01,22,Active,Tony,Hamilton,Male,t.hamilton@newmail.com,481-7914-72,125895,NULL,New,2020-01-01
+2020-01-01,47,Active,Kelsey,Adams,Female,k.adams@newmail.com,240-1057-30,71748,NULL,New,2020-01-01
+2020-01-01,1,Active,Frederick,Barnes,Male,f.barnes@newmail.com,094-8926-78,38582,NULL,New,2020-01-01
+2020-01-01,6,Active,Alberta,Brooks,Female,a.brooks@newmail.com,896-2884-61,97078,NULL,New,2020-01-01
+2020-01-01,16,Active,Dale,Morgan,Male,d.morgan@newmail.com,056-1660-19,161900,NULL,New,2020-01-01
+2020-01-01,3,Active,Sydney,Farrell,Female,s.farrell@newmail.com,187-8343-84,151217,NULL,New,2020-01-01
+2020-01-01,20,Active,Lucas,Jones,Male,l.jones@newmail.com,146-8629-51,80877,NULL,New,2020-01-01
+2020-01-01,40,Active,Hailey,Cunningham,Female,h.cunningham@newmail.com,005-4307-69,101193,NULL,New,2020-01-01
+2020-01-01,48,Active,Abigail,Cole,Female,a.cole@newmail.com,536-0077-66,32619,NULL,New,2020-01-01
+2020-01-01,5,Active,Jared,Wright,Male,j.wright@newmail.com,256-0454-59,98258,NULL,New,2020-01-01
+2020-01-01,19,Active,Sawyer,Owens,Male,s.owens@newmail.com,216-0400-38,70190,NULL,New,2020-01-01
+2020-01-01,41,Active,Arnold,Wright,Male,a.wright@newmail.com,478-0123-70,135221,NULL,New,2020-01-01
+2020-01-01,43,Active,Elise,Perkins,Female,e.perkins@newmail.com,760-4413-39,78430,NULL,New,2020-01-01
+2020-01-01,37,Active,Clark,Jones,Male,c.jones@newmail.com,054-7974-05,161306,NULL,New,2020-01-01
+2020-01-01,9,Active,Alfred,Mason,Male,a.mason@newmail.com,718-7756-65,48496,NULL,New,2020-01-01
+2020-01-01,17,Active,Tiana,Cameron,Female,t.cameron@newmail.com,941-8465-88,134040,NULL,New,2020-01-01
+2020-01-01,35,Active,Evelyn,Howard,Female,e.howard@newmail.com,172-6900-55,141921,NULL,New,2020-01-01
+2020-01-01,4,Active,Rosie,Richards,Female,r.richards@newmail.com,357-9337-53,162461,NULL,New,2020-01-01
+2020-01-01,8,Active,Edith,Fowler,Female,e.fowler@newmail.com,507-8262-99,132468,NULL,New,2020-01-01
+2020-01-01,23,Active,Dale,Smith,Male,d.smith@newmail.com,022-9025-15,43457,NULL,New,2020-01-01
+2020-01-01,39,Active,Frederick,Howard,Male,f.howard@newmail.com,355-3311-00,188087,NULL,New,2020-01-01
+2020-01-01,49,Active,Melissa,Morgan,Female,m.morgan@newmail.com,020-3660-63,128964,NULL,New,2020-01-01
+2020-01-01,7,Active,Cherry,Harrison,Female,c.harrison@newmail.com,069-7921-78,156759,NULL,New,2020-01-01
+2020-01-01,10,Active,Jessica,Hamilton,Female,j.hamilton@newmail.com,670-5046-24,175777,NULL,New,2020-01-01
+2020-01-01,50,Active,Nicole,Harrison,Female,n.harrison@newmail.com,436-5251-31,51556,NULL,New,2020-01-01
+2020-01-01,45,Active,Melissa,Craig,Female,m.craig@newmail.com,270-8938-39,117043,NULL,New,2020-01-01
+2020-01-01,38,Active,Blake,Perkins,Male,b.perkins@newmail.com,241-1297-51,130133,NULL,New,2020-01-01
+2020-01-01,29,Active,Gianna,Wells,Female,g.wells@newmail.com,025-9261-71,116267,NULL,New,2020-01-01
+2020-01-01,21,Active,Oscar,Smith,Male,o.smith@newmail.com,935-1911-34,80407,NULL,New,2020-01-01
+2020-01-01,32,Active,Lucas,Stewart,Male,l.stewart@newmail.com,574-6739-42,160630,NULL,New,2020-01-01
+2020-01-01,11,Active,Lilianna,Crawford,Female,l.crawford@newmail.com,339-0865-57,148448,NULL,New,2020-01-01
+2020-01-01,33,Active,Amelia,Brown,Female,a.brown@newmail.com,413-0482-31,78101,NULL,New,2020-01-01
+2020-01-01,14,Active,Cadie,Evans,Female,c.evans@newmail.com,360-2903-44,103136,NULL,New,2020-01-01
+2020-01-01,42,Active,Kelvin,Bailey,Male,k.bailey@newmail.com,562-0700-89,154900,NULL,New,2020-01-01
+2020-01-01,2,Active,Alford,Grant,Male,a.grant@newmail.com,389-8947-85,53126,NULL,New,2020-01-01
+2020-01-01,30,Active,Alan,Richardson,Male,a.richardson@newmail.com,717-4445-07,155763,NULL,New,2020-01-01
+2020-01-01,46,Active,Maya,Foster,Female,m.foster@newmail.com,023-9093-10,94513,NULL,New,2020-01-01
+2020-01-01,18,Active,Eddy,Ferguson,Male,e.ferguson@newmail.com,351-1295-46,147343,NULL,New,2020-01-01
+2020-01-01,36,Active,Tara,Kelly,Female,t.kelly@newmail.com,524-1286-07,123628,NULL,New,2020-01-01
+2020-01-02,31,Active,Dexter,Mitchell,Male,d.mitchell@newmail.com,347-2261-81,100671,NULL,No Change,2020-01-01
+2020-01-02,34,Active,Florrie,Perry,Female,f.perry@newmail.com,140-5497-36,76212,NULL,No Change,2020-01-01
+2020-01-02,28,Active,Elise,Farrell,Female,e.farrell@newmail.com,485-8347-57,101616,NULL,No Change,2020-01-01
+2020-01-02,26,Active,Marcus,Casey,Male,m.casey@newmail.com,869-0917-23,44508,NULL,No Change,2020-01-01
+2020-01-02,27,Active,Adrianna,Montgomery,Female,a.montgomery@newmail.com,131-6228-32,77391,NULL,No Change,2020-01-01
+2020-01-02,44,Active,Derek,Wells,Male,d.wells@newmail.com,570-4726-83,136224,NULL,No Change,2020-01-01
+2020-01-02,12,Active,Jack,Brooks,Male,j.brooks@newmail.com,020-1068-47,77024,NULL,No Change,2020-01-01
+2020-01-02,22,Active,Tony,Hamilton,Male,t.hamilton@newmail.com,481-7914-72,125895,NULL,No Change,2020-01-01
+2020-01-02,47,Active,Kelsey,Adams,Female,k.adams@newmail.com,240-1057-30,71748,NULL,No Change,2020-01-01
+2020-01-02,1,Active,Frederick,Barnes,Male,f.barnes@newmail.com,094-8926-78,38582,NULL,No Change,2020-01-01
+2020-01-02,13,Active,Wilson,Morrison,Male,w.morrison@newmail.com,152-0725-67,38296,NULL,Changed,2020-01-01
+2020-01-02,6,Active,Alberta,Brooks,Female,a.brooks@newmail.com,896-2884-61,97078,NULL,No Change,2020-01-01
+2020-01-02,16,Active,Dale,Morgan,Male,d.morgan@newmail.com,056-1660-19,161900,NULL,No Change,2020-01-01
+2020-01-02,3,Active,Sydney,Farrell,Female,s.farrell@newmail.com,187-8343-84,151217,NULL,No Change,2020-01-01
+2020-01-02,20,Active,Lucas,Jones,Male,l.jones@newmail.com,146-8629-51,80877,NULL,No Change,2020-01-01
+2020-01-02,40,Active,Hailey,Cunningham,Female,h.cunningham@newmail.com,005-4307-69,101193,NULL,No Change,2020-01-01
+2020-01-02,48,Active,Abigail,Cole,Female,a.cole@newmail.com,536-0077-66,32619,NULL,No Change,2020-01-01
+2020-01-02,5,Active,Jared,Wright,Male,j.wright@newmail.com,256-0454-59,98258,NULL,No Change,2020-01-01
+2020-01-02,19,Active,Sawyer,Owens,Male,s.owens@newmail.com,216-0400-38,70190,NULL,No Change,2020-01-01
+2020-01-02,41,Active,Arnold,Wright,Male,a.wright@newmail.com,478-0123-70,135221,NULL,No Change,2020-01-01
+2020-01-02,43,Active,Elise,Perkins,Female,e.perkins@newmail.com,760-4413-39,78430,NULL,No Change,2020-01-01
+2020-01-02,37,Active,Clark,Jones,Male,c.jones@newmail.com,054-7974-05,161306,NULL,No Change,2020-01-01
+2020-01-02,9,Active,Alfred,Mason,Male,a.mason@newmail.com,718-7756-65,48496,NULL,No Change,2020-01-01
+2020-01-02,17,Active,Tiana,Cameron,Female,t.cameron@newmail.com,941-8465-88,134040,NULL,No Change,2020-01-01
+2020-01-02,35,Active,Evelyn,Howard,Female,e.howard@newmail.com,172-6900-55,141921,NULL,No Change,2020-01-01
+2020-01-02,4,Active,Rosie,Richards,Female,r.richards@newmail.com,357-9337-53,162461,NULL,No Change,2020-01-01
+2020-01-02,8,Active,Edith,Fowler,Female,e.fowler@newmail.com,507-8262-99,132468,NULL,No Change,2020-01-01
+2020-01-02,23,Active,Dale,Smith,Male,d.smith@newmail.com,022-9025-15,43457,NULL,No Change,2020-01-01
+2020-01-02,39,Active,Frederick,Howard,Male,f.howard@newmail.com,355-3311-00,188087,NULL,No Change,2020-01-01
+2020-01-02,49,Active,Melissa,Morgan,Female,m.morgan@newmail.com,020-3660-63,128964,NULL,No Change,2020-01-01
+2020-01-02,7,Active,Cherry,Harrison,Female,c.harrison@newmail.com,069-7921-78,156759,NULL,No Change,2020-01-01
+2020-01-02,10,Active,Jessica,Hamilton,Female,j.hamilton@newmail.com,670-5046-24,175777,NULL,No Change,2020-01-01
+2020-01-02,50,Active,Nicole,Harrison,Female,n.harrison@newmail.com,436-5251-31,51556,NULL,No Change,2020-01-01
+2020-01-02,45,Active,Melissa,Craig,Female,m.craig@newmail.com,270-8938-39,117043,NULL,No Change,2020-01-01
+2020-01-02,38,Active,Blake,Perkins,Male,b.perkins@newmail.com,241-1297-51,130133,NULL,No Change,2020-01-01
+2020-01-02,24,Active,Julia,Cunningham,Female,j.cunningham@newmail.com,068-3478-85,31744,NULL,Changed,2020-01-01
+2020-01-02,29,Active,Gianna,Wells,Female,g.wells@newmail.com,025-9261-71,116267,NULL,No Change,2020-01-01
+2020-01-02,21,Active,Oscar,Smith,Male,o.smith@newmail.com,935-1911-34,80407,NULL,No Change,2020-01-01
+2020-01-02,32,Active,Lucas,Stewart,Male,l.stewart@newmail.com,574-6739-42,160630,NULL,No Change,2020-01-01
+2020-01-02,11,Active,Lilianna,Crawford,Female,l.crawford@newmail.com,339-0865-57,148448,NULL,No Change,2020-01-01
+2020-01-02,33,Active,Amelia,Brown,Female,a.brown@newmail.com,413-0482-31,78101,NULL,No Change,2020-01-01
+2020-01-02,14,Active,Cadie,Evans,Female,c.evans@newmail.com,360-2903-44,103136,NULL,No Change,2020-01-01
+2020-01-02,42,Active,Kelvin,Bailey,Male,k.bailey@newmail.com,562-0700-89,154900,NULL,No Change,2020-01-01
+2020-01-02,2,Active,Alford,Grant,Male,a.grant@newmail.com,389-8947-85,53126,NULL,No Change,2020-01-01
+2020-01-02,30,Active,Alan,Richardson,Male,a.richardson@newmail.com,717-4445-07,155763,NULL,No Change,2020-01-01
+2020-01-02,46,Active,Maya,Foster,Female,m.foster@newmail.com,023-9093-10,94513,NULL,No Change,2020-01-01
+2020-01-02,18,Active,Eddy,Ferguson,Male,e.ferguson@newmail.com,351-1295-46,147343,NULL,No Change,2020-01-01
+2020-01-02,36,Active,Tara,Kelly,Female,t.kelly@newmail.com,524-1286-07,123628,NULL,No Change,2020-01-01
+2020-01-03,31,Active,Dexter,Mitchell,Male,d.mitchell@newmail.com,347-2261-81,100671,NULL,No Change,2020-01-01
+2020-01-03,34,Active,Florrie,Perry,Female,f.perry@newmail.com,140-5497-36,76212,NULL,No Change,2020-01-01
+2020-01-03,28,Active,Elise,Farrell,Female,e.farrell@newmail.com,485-8347-57,101616,NULL,No Change,2020-01-01
+2020-01-03,26,Active,Marcus,Casey,Male,m.casey@newmail.com,869-0917-23,44508,NULL,No Change,2020-01-01
+2020-01-03,27,Active,Adrianna,Montgomery,Female,a.montgomery@newmail.com,131-6228-32,77391,NULL,No Change,2020-01-01
+2020-01-03,44,Active,Derek,Wells,Male,d.wells@newmail.com,570-4726-83,136224,NULL,No Change,2020-01-01
+2020-01-03,12,Active,Jack,Brooks,Male,j.brooks@newmail.com,020-1068-47,77024,NULL,No Change,2020-01-01
+2020-01-03,22,Active,Tony,Hamilton,Male,t.hamilton@newmail.com,481-7914-72,125895,NULL,No Change,2020-01-01
+2020-01-03,47,Active,Kelsey,Adams,Female,k.adams@newmail.com,240-1057-30,71748,NULL,No Change,2020-01-01
+2020-01-03,1,Active,Frederick,Barnes,Male,f.barnes@newmail.com,094-8926-78,38582,NULL,No Change,2020-01-01
+2020-01-03,13,Active,Wilson,Morrison,Male,w.morrison@newmail.com,152-0725-67,38296,NULL,No Change,2020-01-01
+2020-01-03,6,Active,Alberta,Brooks,Female,a.brooks@newmail.com,896-2884-61,97078,NULL,No Change,2020-01-01
+2020-01-03,16,Active,Dale,Morgan,Male,d.morgan@newmail.com,056-1660-19,161900,NULL,No Change,2020-01-01
+2020-01-03,3,Active,Sydney,Farrell,Female,s.farrell@newmail.com,187-8343-84,151217,NULL,No Change,2020-01-01
+2020-01-03,20,Active,Lucas,Jones,Male,l.jones@newmail.com,146-8629-51,80877,NULL,No Change,2020-01-01
+2020-01-03,40,Active,Hailey,Cunningham,Female,h.cunningham@newmail.com,005-4307-69,101193,NULL,No Change,2020-01-01
+2020-01-03,48,Active,Abigail,Cole,Female,a.cole@newmail.com,536-0077-66,32619,NULL,No Change,2020-01-01
+2020-01-03,5,Active,Jared,Wright,Male,j.wright@newmail.com,256-0454-59,98258,NULL,No Change,2020-01-01
+2020-01-03,19,Active,Sawyer,Owens,Male,s.owens@newmail.com,216-0400-38,70190,NULL,No Change,2020-01-01
+2020-01-03,41,Active,Arnold,Wright,Male,a.wright@newmail.com,478-0123-70,135221,NULL,No Change,2020-01-01
+2020-01-03,43,Active,Elise,Perkins,Female,e.perkins@newmail.com,760-4413-39,78430,NULL,No Change,2020-01-01
+2020-01-03,37,Active,Clark,Jones,Male,c.jones@newmail.com,054-7974-05,161306,NULL,No Change,2020-01-01
+2020-01-03,9,Active,Alfred,Mason,Male,a.mason@newmail.com,718-7756-65,48496,NULL,No Change,2020-01-01
+2020-01-03,17,Active,Tiana,Cameron,Female,t.cameron@newmail.com,941-8465-88,134040,NULL,No Change,2020-01-01
+2020-01-03,35,Active,Evelyn,Howard,Female,e.howard@newmail.com,172-6900-55,141921,NULL,No Change,2020-01-01
+2020-01-03,4,Active,Rosie,Richards,Female,r.richards@newmail.com,357-9337-53,162461,NULL,No Change,2020-01-01
+2020-01-03,8,Active,Edith,Fowler,Female,e.fowler@newmail.com,507-8262-99,132468,NULL,No Change,2020-01-01
+2020-01-03,23,Active,Dale,Smith,Male,d.smith@newmail.com,022-9025-15,43457,NULL,No Change,2020-01-01
+2020-01-03,39,Active,Frederick,Howard,Male,f.howard@newmail.com,355-3311-00,188087,NULL,No Change,2020-01-01
+2020-01-03,49,Active,Melissa,Morgan,Female,m.morgan@newmail.com,020-3660-63,128964,NULL,No Change,2020-01-01
+2020-01-03,7,Active,Cherry,Harrison,Female,c.harrison@newmail.com,069-7921-78,156759,NULL,No Change,2020-01-01
+2020-01-03,10,Active,Jessica,Hamilton,Female,j.hamilton@newmail.com,670-5046-24,175777,NULL,No Change,2020-01-01
+2020-01-03,50,Active,Nicole,Harrison,Female,n.harrison@newmail.com,436-5251-31,51556,NULL,No Change,2020-01-01
+2020-01-03,45,Active,Melissa,Craig,Female,m.craig@newmail.com,270-8938-39,117043,NULL,No Change,2020-01-01
+2020-01-03,38,Active,Blake,Perkins,Male,b.perkins@newmail.com,241-1297-51,130133,NULL,No Change,2020-01-01
+2020-01-03,24,Active,Julia,Cunningham,Female,j.cunningham@newmail.com,068-3478-85,31744,NULL,No Change,2020-01-01
+2020-01-03,29,Active,Gianna,Wells,Female,g.wells@newmail.com,025-9261-71,116267,NULL,No Change,2020-01-01
+2020-01-03,21,Active,Oscar,Smith,Male,o.smith@newmail.com,935-1911-34,80407,NULL,No Change,2020-01-01
+2020-01-03,32,Active,Lucas,Stewart,Male,l.stewart@newmail.com,574-6739-42,160630,NULL,No Change,2020-01-01
+2020-01-03,11,Active,Lilianna,Crawford,Female,l.crawford@newmail.com,339-0865-57,148448,NULL,No Change,2020-01-01
+2020-01-03,33,Active,Amelia,Brown,Female,a.brown@newmail.com,413-0482-31,78101,NULL,No Change,2020-01-01
+2020-01-03,14,Active,Cadie,Evans,Female,c.evans@newmail.com,360-2903-44,103136,NULL,No Change,2020-01-01
+2020-01-03,42,Active,Kelvin,Bailey,Male,k.bailey@newmail.com,562-0700-89,154900,NULL,No Change,2020-01-01
+2020-01-03,2,Active,Alford,Grant,Male,a.grant@newmail.com,389-8947-85,53126,NULL,No Change,2020-01-01
+2020-01-03,30,Active,Alan,Richardson,Male,a.richardson@newmail.com,717-4445-07,155763,NULL,No Change,2020-01-01
+2020-01-03,46,Active,Maya,Foster,Female,m.foster@newmail.com,023-9093-10,94513,NULL,No Change,2020-01-01
+2020-01-03,18,Active,Eddy,Ferguson,Male,e.ferguson@newmail.com,351-1295-46,147343,NULL,No Change,2020-01-01
+2020-01-03,36,Active,Tara,Kelly,Female,t.kelly@newmail.com,524-1286-07,123628,NULL,No Change,2020-01-01
+2020-01-04,31,Active,Dexter,Mitchell,Male,d.mitchell@newmail.com,347-2261-81,100671,NULL,No Change,2020-01-01
+2020-01-04,34,Active,Florrie,Perry,Female,f.perry@newmail.com,140-5497-36,76212,NULL,No Change,2020-01-01
+2020-01-04,28,Active,Elise,Farrell,Female,e.farrell@newmail.com,485-8347-57,101616,NULL,No Change,2020-01-01
+2020-01-04,26,Active,Marcus,Casey,Male,m.casey@newmail.com,869-0917-23,44508,NULL,No Change,2020-01-01
+2020-01-04,27,Active,Adrianna,Montgomery,Female,a.montgomery@newmail.com,131-6228-32,77391,NULL,No Change,2020-01-01
+2020-01-04,44,Active,Derek,Wells,Male,d.wells@newmail.com,570-4726-83,136224,NULL,No Change,2020-01-01
+2020-01-04,12,Active,Jack,Brooks,Male,j.brooks@newmail.com,020-1068-47,77024,NULL,No Change,2020-01-01
+2020-01-04,22,Active,Tony,Hamilton,Male,t.hamilton@newmail.com,481-7914-72,125895,NULL,No Change,2020-01-01
+2020-01-04,47,Active,Kelsey,Adams,Female,k.adams@newmail.com,240-1057-30,71748,NULL,No Change,2020-01-01
+2020-01-04,1,Active,Frederick,Barnes,Male,f.barnes@newmail.com,094-8926-78,38582,NULL,No Change,2020-01-01
+2020-01-04,13,Active,Wilson,Morrison,Male,w.morrison@newmail.com,152-0725-67,38296,NULL,No Change,2020-01-01
+2020-01-04,6,Active,Alberta,Brooks,Female,a.brooks@newmail.com,896-2884-61,97078,NULL,No Change,2020-01-01
+2020-01-04,16,Active,Dale,Morgan,Male,d.morgan@newmail.com,056-1660-19,161900,NULL,No Change,2020-01-01
+2020-01-04,3,Active,Sydney,Farrell,Female,s.farrell@newmail.com,187-8343-84,151217,NULL,No Change,2020-01-01
+2020-01-04,20,Active,Lucas,Jones,Male,l.jones@newmail.com,146-8629-51,80877,NULL,No Change,2020-01-01
+2020-01-04,40,Active,Hailey,Cunningham,Female,h.cunningham@newmail.com,005-4307-69,101193,NULL,No Change,2020-01-01
+2020-01-04,48,Active,Abigail,Cole,Female,a.cole@newmail.com,536-0077-66,32619,NULL,No Change,2020-01-01
+2020-01-04,5,Active,Jared,Wright,Male,j.wright@newmail.com,256-0454-59,98258,NULL,No Change,2020-01-01
+2020-01-04,19,Active,Sawyer,Owens,Male,s.owens@newmail.com,216-0400-38,70190,NULL,No Change,2020-01-01
+2020-01-04,41,Active,Arnold,Wright,Male,a.wright@newmail.com,478-0123-70,135221,NULL,No Change,2020-01-01
+2020-01-04,43,Active,Elise,Perkins,Female,e.perkins@newmail.com,760-4413-39,78430,NULL,No Change,2020-01-01
+2020-01-04,37,Active,Clark,Jones,Male,c.jones@newmail.com,054-7974-05,161306,NULL,No Change,2020-01-01
+2020-01-04,9,Active,Alfred,Mason,Male,a.mason@newmail.com,718-7756-65,48496,NULL,No Change,2020-01-01
+2020-01-04,17,Active,Tiana,Cameron,Female,t.cameron@newmail.com,941-8465-88,134040,NULL,No Change,2020-01-01
+2020-01-04,35,Active,Evelyn,Howard,Female,e.howard@newmail.com,172-6900-55,141921,NULL,No Change,2020-01-01
+2020-01-04,4,Active,Rosie,Richards,Female,r.richards@newmail.com,357-9337-53,162461,NULL,No Change,2020-01-01
+2020-01-04,8,Active,Edith,Fowler,Female,e.fowler@newmail.com,507-8262-99,132468,NULL,No Change,2020-01-01
+2020-01-04,23,Active,Dale,Smith,Male,d.smith@newmail.com,022-9025-15,43457,NULL,No Change,2020-01-01
+2020-01-04,39,Active,Frederick,Howard,Male,f.howard@newmail.com,355-3311-00,188087,NULL,No Change,2020-01-01
+2020-01-04,49,Active,Melissa,Morgan,Female,m.morgan@newmail.com,020-3660-63,128964,NULL,No Change,2020-01-01
+2020-01-04,7,Active,Cherry,Harrison,Female,c.harrison@newmail.com,069-7921-78,156759,NULL,No Change,2020-01-01
+2020-01-04,10,Active,Jessica,Hamilton,Female,j.hamilton@newmail.com,670-5046-24,175777,NULL,No Change,2020-01-01
+2020-01-04,50,Active,Nicole,Harrison,Female,n.harrison@newmail.com,436-5251-31,51556,NULL,No Change,2020-01-01
+2020-01-04,45,Active,Melissa,Craig,Female,m.craig@newmail.com,270-8938-39,117043,NULL,No Change,2020-01-01
+2020-01-04,38,Active,Blake,Perkins,Male,b.perkins@newmail.com,241-1297-51,130133,NULL,No Change,2020-01-01
+2020-01-04,25,Inactive,Stella,Hunt,Female,s.hunt@newmail.com,194-7397-62,122746,2020-01-04,Deleted,2020-01-04
+2020-01-04,24,Active,Julia,Cunningham,Female,j.cunningham@newmail.com,068-3478-85,31744,NULL,No Change,2020-01-01
+2020-01-04,29,Active,Gianna,Wells,Female,g.wells@newmail.com,025-9261-71,116267,NULL,No Change,2020-01-01
+2020-01-04,21,Active,Oscar,Smith,Male,o.smith@newmail.com,935-1911-34,80407,NULL,No Change,2020-01-01
+2020-01-04,32,Active,Lucas,Stewart,Male,l.stewart@newmail.com,574-6739-42,160630,NULL,No Change,2020-01-01
+2020-01-04,11,Active,Lilianna,Crawford,Female,l.crawford@newmail.com,339-0865-57,148448,NULL,No Change,2020-01-01
+2020-01-04,33,Active,Amelia,Brown,Female,a.brown@newmail.com,413-0482-31,78101,NULL,No Change,2020-01-01
+2020-01-04,14,Active,Cadie,Evans,Female,c.evans@newmail.com,360-2903-44,103136,NULL,No Change,2020-01-01
+2020-01-04,42,Active,Kelvin,Bailey,Male,k.bailey@newmail.com,562-0700-89,154900,NULL,No Change,2020-01-01
+2020-01-04,2,Active,Alford,Grant,Male,a.grant@newmail.com,389-8947-85,53126,NULL,No Change,2020-01-01
+2020-01-04,30,Active,Alan,Richardson,Male,a.richardson@newmail.com,717-4445-07,155763,NULL,No Change,2020-01-01
+2020-01-04,46,Active,Maya,Foster,Female,m.foster@newmail.com,023-9093-10,94513,NULL,No Change,2020-01-01
+2020-01-04,18,Active,Eddy,Ferguson,Male,e.ferguson@newmail.com,351-1295-46,147343,NULL,No Change,2020-01-01
+2020-01-04,36,Active,Tara,Kelly,Female,t.kelly@newmail.com,524-1286-07,123628,NULL,No Change,2020-01-01
+2020-01-05,31,Active,Dexter,Mitchell,Male,d.mitchell@newmail.com,347-2261-81,100671,NULL,No Change,2020-01-01
+2020-01-05,34,Active,Florrie,Perry,Female,f.perry@newmail.com,140-5497-36,76212,NULL,No Change,2020-01-01
+2020-01-05,28,Active,Elise,Farrell,Female,e.farrell@newmail.com,485-8347-57,101616,NULL,No Change,2020-01-01
+2020-01-05,26,Active,Marcus,Casey,Male,m.casey@newmail.com,869-0917-23,44508,NULL,No Change,2020-01-01
+2020-01-05,27,Active,Adrianna,Montgomery,Female,a.montgomery@newmail.com,131-6228-32,77391,NULL,No Change,2020-01-01
+2020-01-05,44,Active,Derek,Wells,Male,d.wells@newmail.com,570-4726-83,136224,NULL,No Change,2020-01-01
+2020-01-05,12,Active,Jack,Brooks,Male,j.brooks@newmail.com,020-1068-47,77024,NULL,No Change,2020-01-01
+2020-01-05,22,Active,Tony,Hamilton,Male,t.hamilton@newmail.com,481-7914-72,125895,NULL,No Change,2020-01-01
+2020-01-05,47,Active,Kelsey,Adams,Female,k.adams@newmail.com,240-1057-30,71748,NULL,No Change,2020-01-01
+2020-01-05,1,Active,Frederick,Barnes,Male,f.barnes@newmail.com,094-8926-78,38582,NULL,No Change,2020-01-01
+2020-01-05,13,Active,Wilson,Morrison,Male,w.morrison@newmail.com,152-0725-67,38296,NULL,No Change,2020-01-01
+2020-01-05,6,Active,Alberta,Brooks,Female,a.brooks@newmail.com,896-2884-61,97078,NULL,No Change,2020-01-01
+2020-01-05,16,Active,Dale,Morgan,Male,d.morgan@newmail.com,056-1660-19,161900,NULL,No Change,2020-01-01
+2020-01-05,3,Active,Sydney,Farrell,Female,s.farrell@newmail.com,187-8343-84,151217,NULL,No Change,2020-01-01
+2020-01-05,20,Active,Lucas,Jones,Male,l.jones@newmail.com,146-8629-51,80877,NULL,No Change,2020-01-01
+2020-01-05,40,Active,Hailey,Cunningham,Female,h.cunningham@newmail.com,005-4307-69,101193,NULL,No Change,2020-01-01
+2020-01-05,48,Active,Abigail,Cole,Female,a.cole@newmail.com,536-0077-66,32619,NULL,No Change,2020-01-01
+2020-01-05,5,Active,Jared,Wright,Male,j.wright@newmail.com,256-0454-59,98258,NULL,No Change,2020-01-01
+2020-01-05,19,Active,Sawyer,Owens,Male,s.owens@newmail.com,216-0400-38,70190,NULL,No Change,2020-01-01
+2020-01-05,41,Active,Arnold,Wright,Male,a.wright@newmail.com,478-0123-70,135221,NULL,No Change,2020-01-01
+2020-01-05,43,Active,Elise,Perkins,Female,e.perkins@newmail.com,760-4413-39,78430,NULL,No Change,2020-01-01
+2020-01-05,37,Active,Clark,Jones,Male,c.jones@newmail.com,054-7974-05,161306,NULL,No Change,2020-01-01
+2020-01-05,9,Active,Alfred,Mason,Male,a.mason@newmail.com,718-7756-65,48496,NULL,No Change,2020-01-01
+2020-01-05,17,Active,Tiana,Cameron,Female,t.cameron@newmail.com,941-8465-88,134040,NULL,No Change,2020-01-01
+2020-01-05,35,Active,Evelyn,Howard,Female,e.howard@newmail.com,172-6900-55,141921,NULL,No Change,2020-01-01
+2020-01-05,4,Active,Rosie,Richards,Female,r.richards@newmail.com,357-9337-53,162461,NULL,No Change,2020-01-01
+2020-01-05,8,Active,Edith,Fowler,Female,e.fowler@newmail.com,507-8262-99,132468,NULL,No Change,2020-01-01
+2020-01-05,23,Active,Dale,Smith,Male,d.smith@newmail.com,022-9025-15,43457,NULL,No Change,2020-01-01
+2020-01-05,39,Active,Frederick,Howard,Male,f.howard@newmail.com,355-3311-00,188087,NULL,No Change,2020-01-01
+2020-01-05,49,Active,Melissa,Morgan,Female,m.morgan@newmail.com,020-3660-63,128964,NULL,No Change,2020-01-01
+2020-01-05,7,Active,Cherry,Harrison,Female,c.harrison@newmail.com,069-7921-78,156759,NULL,No Change,2020-01-01
+2020-01-05,10,Active,Jessica,Hamilton,Female,j.hamilton@newmail.com,670-5046-24,175777,NULL,No Change,2020-01-01
+2020-01-05,50,Active,Nicole,Harrison,Female,n.harrison@newmail.com,436-5251-31,51556,NULL,No Change,2020-01-01
+2020-01-05,45,Active,Melissa,Craig,Female,m.craig@newmail.com,270-8938-39,117043,NULL,No Change,2020-01-01
+2020-01-05,38,Active,Blake,Perkins,Male,b.perkins@newmail.com,241-1297-51,130133,NULL,No Change,2020-01-01
+2020-01-05,24,Active,Julia,Cunningham,Female,j.cunningham@newmail.com,068-3478-85,31744,NULL,No Change,2020-01-01
+2020-01-05,29,Active,Gianna,Wells,Female,g.wells@newmail.com,025-9261-71,116267,NULL,No Change,2020-01-01
+2020-01-05,21,Active,Oscar,Smith,Male,o.smith@newmail.com,935-1911-34,80407,NULL,No Change,2020-01-01
+2020-01-05,32,Active,Lucas,Stewart,Male,l.stewart@newmail.com,574-6739-42,160630,NULL,No Change,2020-01-01
+2020-01-05,11,Active,Lilianna,Crawford,Female,l.crawford@newmail.com,339-0865-57,148448,NULL,No Change,2020-01-01
+2020-01-05,33,Active,Amelia,Brown,Female,a.brown@newmail.com,413-0482-31,78101,NULL,No Change,2020-01-01
+2020-01-05,14,Active,Cadie,Evans,Female,c.evans@newmail.com,360-2903-44,103136,NULL,No Change,2020-01-01
+2020-01-05,42,Active,Kelvin,Bailey,Male,k.bailey@newmail.com,562-0700-89,154900,NULL,No Change,2020-01-01
+2020-01-05,2,Active,Alford,Grant,Male,a.grant@newmail.com,389-8947-85,53126,NULL,No Change,2020-01-01
+2020-01-05,30,Active,Alan,Richardson,Male,a.richardson@newmail.com,717-4445-07,155763,NULL,No Change,2020-01-01
+2020-01-05,46,Active,Maya,Foster,Female,m.foster@newmail.com,023-9093-10,94513,NULL,No Change,2020-01-01
+2020-01-05,18,Active,Eddy,Ferguson,Male,e.ferguson@newmail.com,351-1295-46,147343,NULL,No Change,2020-01-01
+2020-01-05,36,Active,Tara,Kelly,Female,t.kelly@newmail.com,524-1286-07,123628,NULL,No Change,2020-01-01
+2020-01-06,31,Active,Dexter,Mitchell,Male,d.mitchell@newmail.com,347-2261-81,100671,NULL,No Change,2020-01-01
+2020-01-06,34,Active,Florrie,Perry,Female,f.perry@newmail.com,140-5497-36,76212,NULL,No Change,2020-01-01
+2020-01-06,28,Active,Elise,Farrell,Female,e.farrell@newmail.com,485-8347-57,101616,NULL,No Change,2020-01-01
+2020-01-06,26,Active,Marcus,Casey,Male,m.casey@newmail.com,869-0917-23,44508,NULL,No Change,2020-01-01
+2020-01-06,27,Active,Adrianna,Montgomery,Female,a.montgomery@newmail.com,131-6228-32,77391,NULL,No Change,2020-01-01
+2020-01-06,44,Active,Derek,Wells,Male,d.wells@newmail.com,570-4726-83,136224,NULL,No Change,2020-01-01
+2020-01-06,12,Active,Jack,Brooks,Male,j.brooks@newmail.com,020-1068-47,77024,NULL,No Change,2020-01-01
+2020-01-06,22,Active,Tony,Hamilton,Male,t.hamilton@newmail.com,481-7914-72,125895,NULL,No Change,2020-01-01
+2020-01-06,47,Active,Kelsey,Adams,Female,k.adams@newmail.com,240-1057-30,71748,NULL,No Change,2020-01-01
+2020-01-06,1,Active,Frederick,Barnes,Male,f.barnes@newmail.com,094-8926-78,38582,NULL,No Change,2020-01-01
+2020-01-06,13,Active,Wilson,Morrison,Male,w.morrison@newmail.com,152-0725-67,38296,NULL,No Change,2020-01-01
+2020-01-06,6,Active,Alberta,Brooks,Female,a.brooks@newmail.com,896-2884-61,97078,NULL,No Change,2020-01-01
+2020-01-06,16,Active,Dale,Morgan,Male,d.morgan@newmail.com,056-1660-19,161900,NULL,No Change,2020-01-01
+2020-01-06,3,Active,Sydney,Farrell,Female,s.farrell@newmail.com,187-8343-84,151217,NULL,No Change,2020-01-01
+2020-01-06,20,Active,Lucas,Jones,Male,l.jones@newmail.com,146-8629-51,80877,NULL,No Change,2020-01-01
+2020-01-06,40,Active,Hailey,Cunningham,Female,h.cunningham@newmail.com,005-4307-69,101193,NULL,No Change,2020-01-01
+2020-01-06,48,Active,Abigail,Cole,Female,a.cole@newmail.com,536-0077-66,32619,NULL,No Change,2020-01-01
+2020-01-06,5,Active,Jared,Wright,Male,j.wright@newmail.com,256-0454-59,98258,NULL,No Change,2020-01-01
+2020-01-06,19,Active,Sawyer,Owens,Male,s.owens@newmail.com,216-0400-38,70190,NULL,No Change,2020-01-01
+2020-01-06,41,Active,Arnold,Wright,Male,a.wright@newmail.com,478-0123-70,135221,NULL,No Change,2020-01-01
+2020-01-06,43,Active,Elise,Perkins,Female,e.perkins@newmail.com,760-4413-39,78430,NULL,No Change,2020-01-01
+2020-01-06,37,Active,Clark,Jones,Male,c.jones@newmail.com,054-7974-05,161306,NULL,No Change,2020-01-01
+2020-01-06,9,Active,Alfred,Mason,Male,a.mason@newmail.com,718-7756-65,48496,NULL,No Change,2020-01-01
+2020-01-06,17,Active,Tiana,Cameron,Female,t.cameron@newmail.com,941-8465-88,134040,NULL,No Change,2020-01-01
+2020-01-06,35,Active,Evelyn,Howard,Female,e.howard@newmail.com,172-6900-55,141921,NULL,No Change,2020-01-01
+2020-01-06,4,Active,Rosie,Richards,Female,r.richards@newmail.com,357-9337-53,162461,NULL,No Change,2020-01-01
+2020-01-06,8,Active,Edith,Fowler,Female,e.fowler@newmail.com,507-8262-99,132468,NULL,No Change,2020-01-01
+2020-01-06,23,Active,Dale,Smith,Male,d.smith@newmail.com,022-9025-15,43457,NULL,No Change,2020-01-01
+2020-01-06,39,Active,Frederick,Howard,Male,f.howard@newmail.com,355-3311-00,188087,NULL,No Change,2020-01-01
+2020-01-06,49,Active,Melissa,Morgan,Female,m.morgan@newmail.com,020-3660-63,128964,NULL,No Change,2020-01-01
+2020-01-06,7,Active,Cherry,Harrison,Female,c.harrison@newmail.com,069-7921-78,156759,NULL,No Change,2020-01-01
+2020-01-06,10,Active,Jessica,Hamilton,Female,j.hamilton@newmail.com,670-5046-24,175777,NULL,No Change,2020-01-01
+2020-01-06,50,Active,Nicole,Harrison,Female,n.harrison@newmail.com,436-5251-31,51556,NULL,No Change,2020-01-01
+2020-01-06,45,Active,Melissa,Craig,Female,m.craig@newmail.com,270-8938-39,117043,NULL,No Change,2020-01-01
+2020-01-06,38,Active,Blake,Perkins,Male,b.perkins@newmail.com,241-1297-51,130133,NULL,No Change,2020-01-01
+2020-01-06,24,Active,Julia,Cunningham,Female,j.cunningham@newmail.com,068-3478-85,31744,NULL,No Change,2020-01-01
+2020-01-06,29,Active,Gianna,Wells,Female,g.wells@newmail.com,025-9261-71,116267,NULL,No Change,2020-01-01
+2020-01-06,21,Active,Oscar,Smith,Male,o.smith@newmail.com,935-1911-34,80407,NULL,No Change,2020-01-01
+2020-01-06,32,Active,Lucas,Stewart,Male,l.stewart@newmail.com,574-6739-42,160630,NULL,No Change,2020-01-01
+2020-01-06,11,Active,Lilianna,Crawford,Female,l.crawford@newmail.com,339-0865-57,148448,NULL,No Change,2020-01-01
+2020-01-06,33,Active,Amelia,Brown,Female,a.brown@newmail.com,413-0482-31,78101,NULL,No Change,2020-01-01
+2020-01-06,14,Active,Cadie,Evans,Female,c.evans@newmail.com,360-2903-44,103136,NULL,No Change,2020-01-01
+2020-01-06,42,Active,Kelvin,Bailey,Male,k.bailey@newmail.com,562-0700-89,154900,NULL,No Change,2020-01-01
+2020-01-06,2,Active,Alford,Grant,Male,a.grant@newmail.com,389-8947-85,53126,NULL,No Change,2020-01-01
+2020-01-06,30,Active,Alan,Richardson,Male,a.richardson@newmail.com,717-4445-07,155763,NULL,No Change,2020-01-01
+2020-01-06,46,Active,Maya,Foster,Female,m.foster@newmail.com,023-9093-10,94513,NULL,No Change,2020-01-01
+2020-01-06,18,Active,Eddy,Ferguson,Male,e.ferguson@newmail.com,351-1295-46,147343,NULL,No Change,2020-01-01
+2020-01-06,36,Active,Tara,Kelly,Female,t.kelly@newmail.com,524-1286-07,123628,NULL,No Change,2020-01-01
+2020-01-07,31,Active,Dexter,Mitchell,Male,d.mitchell@newmail.com,347-2261-81,100671,NULL,No Change,2020-01-01
+2020-01-07,34,Active,Florrie,Perry,Female,f.perry@newmail.com,140-5497-36,76212,NULL,No Change,2020-01-01
+2020-01-07,28,Active,Elise,Farrell,Female,e.farrell@newmail.com,485-8347-57,101616,NULL,No Change,2020-01-01
+2020-01-07,26,Active,Marcus,Casey,Male,m.casey@newmail.com,869-0917-23,44508,NULL,No Change,2020-01-01
+2020-01-07,27,Active,Adrianna,Montgomery,Female,a.montgomery@newmail.com,131-6228-32,77391,NULL,No Change,2020-01-01
+2020-01-07,44,Active,Derek,Wells,Male,d.wells@newmail.com,570-4726-83,136224,NULL,No Change,2020-01-01
+2020-01-07,12,Active,Jack,Brooks,Male,j.brooks@newmail.com,020-1068-47,77024,NULL,No Change,2020-01-01
+2020-01-07,22,Active,Tony,Hamilton,Male,t.hamilton@newmail.com,481-7914-72,125895,NULL,No Change,2020-01-01
+2020-01-07,47,Active,Kelsey,Adams,Female,k.adams@newmail.com,240-1057-30,71748,NULL,No Change,2020-01-01
+2020-01-07,1,Active,Frederick,Barnes,Male,f.barnes@newmail.com,094-8926-78,38582,NULL,No Change,2020-01-01
+2020-01-07,13,Active,Wilson,Morrison,Male,w.morrison@newmail.com,152-0725-67,38296,NULL,No Change,2020-01-01
+2020-01-07,6,Active,Alberta,Brooks,Female,a.brooks@newmail.com,896-2884-61,97078,NULL,No Change,2020-01-01
+2020-01-07,16,Active,Dale,Morgan,Male,d.morgan@newmail.com,056-1660-19,161900,NULL,No Change,2020-01-01
+2020-01-07,3,Active,Sydney,Farrell,Female,s.farrell@newmail.com,187-8343-84,151217,NULL,No Change,2020-01-01
+2020-01-07,20,Active,Lucas,Jones,Male,l.jones@newmail.com,146-8629-51,80877,NULL,No Change,2020-01-01
+2020-01-07,40,Active,Hailey,Cunningham,Female,h.cunningham@newmail.com,005-4307-69,101193,NULL,No Change,2020-01-01
+2020-01-07,48,Active,Abigail,Cole,Female,a.cole@newmail.com,536-0077-66,32619,NULL,No Change,2020-01-01
+2020-01-07,5,Active,Jared,Wright,Male,j.wright@newmail.com,256-0454-59,98258,NULL,No Change,2020-01-01
+2020-01-07,19,Active,Sawyer,Owens,Male,s.owens@newmail.com,216-0400-38,70190,NULL,No Change,2020-01-01
+2020-01-07,41,Active,Arnold,Wright,Male,a.wright@newmail.com,478-0123-70,135221,NULL,No Change,2020-01-01
+2020-01-07,15,Active,Adelaide,Owens,Female,a.owens@newmail.com,082-2307-17,130388,NULL,Changed,2020-01-01
+2020-01-07,43,Active,Elise,Perkins,Female,e.perkins@newmail.com,760-4413-39,78430,NULL,No Change,2020-01-01
+2020-01-07,37,Active,Clark,Jones,Male,c.jones@newmail.com,054-7974-05,161306,NULL,No Change,2020-01-01
+2020-01-07,9,Active,Alfred,Mason,Male,a.mason@newmail.com,718-7756-65,48496,NULL,No Change,2020-01-01
+2020-01-07,17,Active,Tiana,Cameron,Female,t.cameron@newmail.com,941-8465-88,134040,NULL,No Change,2020-01-01
+2020-01-07,35,Active,Evelyn,Howard,Female,e.howard@newmail.com,172-6900-55,141921,NULL,No Change,2020-01-01
+2020-01-07,4,Active,Rosie,Richards,Female,r.richards@newmail.com,357-9337-53,162461,NULL,No Change,2020-01-01
+2020-01-07,8,Active,Edith,Fowler,Female,e.fowler@newmail.com,507-8262-99,132468,NULL,No Change,2020-01-01
+2020-01-07,23,Active,Dale,Smith,Male,d.smith@newmail.com,022-9025-15,43457,NULL,No Change,2020-01-01
+2020-01-07,39,Active,Frederick,Howard,Male,f.howard@newmail.com,355-3311-00,188087,NULL,No Change,2020-01-01
+2020-01-07,49,Active,Melissa,Morgan,Female,m.morgan@newmail.com,020-3660-63,128964,NULL,No Change,2020-01-01
+2020-01-07,7,Active,Cherry,Harrison,Female,c.harrison@newmail.com,069-7921-78,156759,NULL,No Change,2020-01-01
+2020-01-07,10,Active,Jessica,Hamilton,Female,j.hamilton@newmail.com,670-5046-24,175777,NULL,No Change,2020-01-01
+2020-01-07,50,Active,Nicole,Harrison,Female,n.harrison@newmail.com,436-5251-31,51556,NULL,No Change,2020-01-01
+2020-01-07,45,Active,Melissa,Craig,Female,m.craig@newmail.com,270-8938-39,117043,NULL,No Change,2020-01-01
+2020-01-07,38,Active,Blake,Perkins,Male,b.perkins@newmail.com,241-1297-51,130133,NULL,No Change,2020-01-01
+2020-01-07,24,Active,Julia,Cunningham,Female,j.cunningham@newmail.com,068-3478-85,31744,NULL,No Change,2020-01-01
+2020-01-07,29,Active,Gianna,Wells,Female,g.wells@newmail.com,025-9261-71,116267,NULL,No Change,2020-01-01
+2020-01-07,21,Active,Oscar,Smith,Male,o.smith@newmail.com,935-1911-34,80407,NULL,No Change,2020-01-01
+2020-01-07,32,Active,Lucas,Stewart,Male,l.stewart@newmail.com,574-6739-42,160630,NULL,No Change,2020-01-01
+2020-01-07,11,Active,Lilianna,Crawford,Female,l.crawford@newmail.com,339-0865-57,148448,NULL,No Change,2020-01-01
+2020-01-07,33,Active,Amelia,Brown,Female,a.brown@newmail.com,413-0482-31,78101,NULL,No Change,2020-01-01
+2020-01-07,14,Active,Cadie,Evans,Female,c.evans@newmail.com,360-2903-44,103136,NULL,No Change,2020-01-01
+2020-01-07,42,Active,Kelvin,Bailey,Male,k.bailey@newmail.com,562-0700-89,154900,NULL,No Change,2020-01-01
+2020-01-07,2,Active,Alford,Grant,Male,a.grant@newmail.com,389-8947-85,53126,NULL,No Change,2020-01-01
+2020-01-07,30,Active,Alan,Richardson,Male,a.richardson@newmail.com,717-4445-07,155763,NULL,No Change,2020-01-01
+2020-01-07,46,Active,Maya,Foster,Female,m.foster@newmail.com,023-9093-10,94513,NULL,No Change,2020-01-01
+2020-01-07,18,Active,Eddy,Ferguson,Male,e.ferguson@newmail.com,351-1295-46,147343,NULL,No Change,2020-01-01
+2020-01-07,36,Active,Tara,Kelly,Female,t.kelly@newmail.com,524-1286-07,123628,NULL,No Change,2020-01-01
+2020-01-08,31,Active,Dexter,Mitchell,Male,d.mitchell@newmail.com,347-2261-81,100671,NULL,No Change,2020-01-01
+2020-01-08,34,Active,Florrie,Perry,Female,f.perry@newmail.com,140-5497-36,76212,NULL,No Change,2020-01-01
+2020-01-08,28,Active,Elise,Farrell,Female,e.farrell@newmail.com,485-8347-57,101616,NULL,No Change,2020-01-01
+2020-01-08,26,Active,Marcus,Casey,Male,m.casey@newmail.com,869-0917-23,44508,NULL,No Change,2020-01-01
+2020-01-08,27,Active,Adrianna,Montgomery,Female,a.montgomery@newmail.com,131-6228-32,77391,NULL,No Change,2020-01-01
+2020-01-08,44,Active,Derek,Wells,Male,d.wells@newmail.com,570-4726-83,136224,NULL,No Change,2020-01-01
+2020-01-08,12,Active,Jack,Brooks,Male,j.brooks@newmail.com,020-1068-47,77024,NULL,No Change,2020-01-01
+2020-01-08,22,Active,Tony,Hamilton,Male,t.hamilton@newmail.com,481-7914-72,125895,NULL,No Change,2020-01-01
+2020-01-08,47,Active,Kelsey,Adams,Female,k.adams@newmail.com,240-1057-30,71748,NULL,No Change,2020-01-01
+2020-01-08,1,Active,Frederick,Barnes,Male,f.barnes@newmail.com,094-8926-78,38582,NULL,No Change,2020-01-01
+2020-01-08,13,Active,Wilson,Morrison,Male,w.morrison@newmail.com,152-0725-67,38296,NULL,No Change,2020-01-01
+2020-01-08,6,Active,Alberta,Brooks,Female,a.brooks@newmail.com,896-2884-61,97078,NULL,No Change,2020-01-01
+2020-01-08,16,Active,Dale,Morgan,Male,d.morgan@newmail.com,056-1660-19,161900,NULL,No Change,2020-01-01
+2020-01-08,3,Active,Sydney,Farrell,Female,s.farrell@newmail.com,187-8343-84,151217,NULL,No Change,2020-01-01
+2020-01-08,20,Active,Lucas,Jones,Male,l.jones@newmail.com,146-8629-51,80877,NULL,No Change,2020-01-01
+2020-01-08,40,Active,Hailey,Cunningham,Female,h.cunningham@newmail.com,005-4307-69,101193,NULL,No Change,2020-01-01
+2020-01-08,48,Active,Abigail,Cole,Female,a.cole@newmail.com,536-0077-66,32619,NULL,No Change,2020-01-01
+2020-01-08,5,Active,Jared,Wright,Male,j.wright@newmail.com,256-0454-59,98258,NULL,No Change,2020-01-01
+2020-01-08,19,Active,Sawyer,Owens,Male,s.owens@newmail.com,216-0400-38,70190,NULL,No Change,2020-01-01
+2020-01-08,41,Active,Arnold,Wright,Male,a.wright@newmail.com,478-0123-70,135221,NULL,No Change,2020-01-01
+2020-01-08,15,Active,Adelaide,Owens,Female,a.owens@newmail.com,082-2307-17,130388,NULL,No Change,2020-01-01
+2020-01-08,43,Active,Elise,Perkins,Female,e.perkins@newmail.com,760-4413-39,78430,NULL,No Change,2020-01-01
+2020-01-08,37,Active,Clark,Jones,Male,c.jones@newmail.com,054-7974-05,161306,NULL,No Change,2020-01-01
+2020-01-08,9,Active,Alfred,Mason,Male,a.mason@newmail.com,718-7756-65,48496,NULL,No Change,2020-01-01
+2020-01-08,17,Active,Tiana,Cameron,Female,t.cameron@newmail.com,941-8465-88,134040,NULL,No Change,2020-01-01
+2020-01-08,35,Active,Evelyn,Howard,Female,e.howard@newmail.com,172-6900-55,141921,NULL,No Change,2020-01-01
+2020-01-08,4,Active,Rosie,Richards,Female,r.richards@newmail.com,357-9337-53,162461,NULL,No Change,2020-01-01
+2020-01-08,8,Active,Edith,Fowler,Female,e.fowler@newmail.com,507-8262-99,132468,NULL,No Change,2020-01-01
+2020-01-08,23,Active,Dale,Smith,Male,d.smith@newmail.com,022-9025-15,43457,NULL,No Change,2020-01-01
+2020-01-08,39,Active,Frederick,Howard,Male,f.howard@newmail.com,355-3311-00,188087,NULL,No Change,2020-01-01
+2020-01-08,49,Active,Melissa,Morgan,Female,m.morgan@newmail.com,020-3660-63,128964,NULL,No Change,2020-01-01
+2020-01-08,7,Active,Cherry,Harrison,Female,c.harrison@newmail.com,069-7921-78,156759,NULL,No Change,2020-01-01
+2020-01-08,10,Active,Jessica,Hamilton,Female,j.hamilton@newmail.com,670-5046-24,175777,NULL,No Change,2020-01-01
+2020-01-08,50,Active,Nicole,Harrison,Female,n.harrison@newmail.com,436-5251-31,51556,NULL,No Change,2020-01-01
+2020-01-08,45,Active,Melissa,Craig,Female,m.craig@newmail.com,270-8938-39,117043,NULL,No Change,2020-01-01
+2020-01-08,38,Active,Blake,Perkins,Male,b.perkins@newmail.com,241-1297-51,130133,NULL,No Change,2020-01-01
+2020-01-08,24,Active,Julia,Cunningham,Female,j.cunningham@newmail.com,068-3478-85,31744,NULL,No Change,2020-01-01
+2020-01-08,29,Active,Gianna,Wells,Female,g.wells@newmail.com,025-9261-71,116267,NULL,No Change,2020-01-01
+2020-01-08,21,Active,Oscar,Smith,Male,o.smith@newmail.com,935-1911-34,80407,NULL,No Change,2020-01-01
+2020-01-08,32,Active,Lucas,Stewart,Male,l.stewart@newmail.com,574-6739-42,160630,NULL,No Change,2020-01-01
+2020-01-08,11,Active,Lilianna,Crawford,Female,l.crawford@newmail.com,339-0865-57,148448,NULL,No Change,2020-01-01
+2020-01-08,33,Active,Amelia,Brown,Female,a.brown@newmail.com,413-0482-31,78101,NULL,No Change,2020-01-01
+2020-01-08,14,Active,Cadie,Evans,Female,c.evans@newmail.com,360-2903-44,103136,NULL,No Change,2020-01-01
+2020-01-08,42,Active,Kelvin,Bailey,Male,k.bailey@newmail.com,562-0700-89,154900,NULL,No Change,2020-01-01
+2020-01-08,2,Active,Alford,Grant,Male,a.grant@newmail.com,389-8947-85,53126,NULL,No Change,2020-01-01
+2020-01-08,30,Active,Alan,Richardson,Male,a.richardson@newmail.com,717-4445-07,155763,NULL,No Change,2020-01-01
+2020-01-08,46,Active,Maya,Foster,Female,m.foster@newmail.com,023-9093-10,94513,NULL,No Change,2020-01-01
+2020-01-08,18,Active,Eddy,Ferguson,Male,e.ferguson@newmail.com,351-1295-46,147343,NULL,No Change,2020-01-01
+2020-01-08,36,Active,Tara,Kelly,Female,t.kelly@newmail.com,524-1286-07,123628,NULL,No Change,2020-01-01
+2020-01-09,31,Active,Dexter,Mitchell,Male,d.mitchell@newmail.com,347-2261-81,100671,NULL,No Change,2020-01-01
+2020-01-09,34,Active,Florrie,Perry,Female,f.perry@newmail.com,140-5497-36,76212,NULL,No Change,2020-01-01
+2020-01-09,28,Active,Elise,Farrell,Female,e.farrell@newmail.com,485-8347-57,101616,NULL,No Change,2020-01-01
+2020-01-09,26,Active,Marcus,Casey,Male,m.casey@newmail.com,869-0917-23,44508,NULL,No Change,2020-01-01
+2020-01-09,27,Active,Adrianna,Montgomery,Female,a.montgomery@newmail.com,131-6228-32,77391,NULL,No Change,2020-01-01
+2020-01-09,44,Active,Derek,Wells,Male,d.wells@newmail.com,570-4726-83,136224,NULL,No Change,2020-01-01
+2020-01-09,12,Active,Jack,Brooks,Male,j.brooks@newmail.com,020-1068-47,77024,NULL,No Change,2020-01-01
+2020-01-09,22,Active,Tony,Hamilton,Male,t.hamilton@newmail.com,481-7914-72,125895,NULL,No Change,2020-01-01
+2020-01-09,47,Active,Kelsey,Adams,Female,k.adams@newmail.com,240-1057-30,71748,NULL,No Change,2020-01-01
+2020-01-09,1,Active,Frederick,Barnes,Male,f.barnes@newmail.com,094-8926-78,38582,NULL,No Change,2020-01-01
+2020-01-09,13,Active,Wilson,Morrison,Male,w.morrison@newmail.com,152-0725-67,38296,NULL,No Change,2020-01-01
+2020-01-09,6,Active,Alberta,Brooks,Female,a.brooks@newmail.com,896-2884-61,97078,NULL,No Change,2020-01-01
+2020-01-09,16,Active,Dale,Morgan,Male,d.morgan@newmail.com,056-1660-19,161900,NULL,No Change,2020-01-01
+2020-01-09,3,Active,Sydney,Farrell,Female,s.farrell@newmail.com,187-8343-84,151217,NULL,No Change,2020-01-01
+2020-01-09,20,Active,Lucas,Jones,Male,l.jones@newmail.com,146-8629-51,80877,NULL,No Change,2020-01-01
+2020-01-09,40,Active,Hailey,Cunningham,Female,h.cunningham@newmail.com,005-4307-69,101193,NULL,No Change,2020-01-01
+2020-01-09,48,Active,Abigail,Cole,Female,a.cole@newmail.com,536-0077-66,32619,NULL,No Change,2020-01-01
+2020-01-09,5,Active,Jared,Wright,Male,j.wright@newmail.com,256-0454-59,98258,NULL,No Change,2020-01-01
+2020-01-09,19,Active,Sawyer,Owens,Male,s.owens@newmail.com,216-0400-38,70190,NULL,No Change,2020-01-01
+2020-01-09,41,Active,Arnold,Wright,Male,a.wright@newmail.com,478-0123-70,135221,NULL,No Change,2020-01-01
+2020-01-09,15,Active,Adelaide,Owens,Female,a.owens@newmail.com,082-2307-17,130388,NULL,No Change,2020-01-01
+2020-01-09,43,Active,Elise,Perkins,Female,e.perkins@newmail.com,760-4413-39,78430,NULL,No Change,2020-01-01
+2020-01-09,37,Active,Clark,Jones,Male,c.jones@newmail.com,054-7974-05,161306,NULL,No Change,2020-01-01
+2020-01-09,9,Active,Alfred,Mason,Male,a.mason@newmail.com,718-7756-65,48496,NULL,No Change,2020-01-01
+2020-01-09,17,Active,Tiana,Cameron,Female,t.cameron@newmail.com,941-8465-88,134040,NULL,No Change,2020-01-01
+2020-01-09,35,Active,Evelyn,Howard,Female,e.howard@newmail.com,172-6900-55,141921,NULL,No Change,2020-01-01
+2020-01-09,4,Active,Rosie,Richards,Female,r.richards@newmail.com,357-9337-53,162461,NULL,No Change,2020-01-01
+2020-01-09,8,Active,Edith,Fowler,Female,e.fowler@newmail.com,507-8262-99,132468,NULL,No Change,2020-01-01
+2020-01-09,23,Active,Dale,Smith,Male,d.smith@newmail.com,022-9025-15,43457,NULL,No Change,2020-01-01
+2020-01-09,39,Active,Frederick,Howard,Male,f.howard@newmail.com,355-3311-00,188087,NULL,No Change,2020-01-01
+2020-01-09,49,Active,Melissa,Morgan,Female,m.morgan@newmail.com,020-3660-63,128964,NULL,No Change,2020-01-01
+2020-01-09,7,Active,Cherry,Harrison,Female,c.harrison@newmail.com,069-7921-78,156759,NULL,No Change,2020-01-01
+2020-01-09,10,Active,Jessica,Hamilton,Female,j.hamilton@newmail.com,670-5046-24,175777,NULL,No Change,2020-01-01
+2020-01-09,50,Active,Nicole,Harrison,Female,n.harrison@newmail.com,436-5251-31,51556,NULL,No Change,2020-01-01
+2020-01-09,45,Active,Melissa,Craig,Female,m.craig@newmail.com,270-8938-39,117043,NULL,No Change,2020-01-01
+2020-01-09,38,Active,Blake,Perkins,Male,b.perkins@newmail.com,241-1297-51,130133,NULL,No Change,2020-01-01
+2020-01-09,24,Active,Julia,Cunningham,Female,j.cunningham@newmail.com,068-3478-85,31744,NULL,No Change,2020-01-01
+2020-01-09,29,Active,Gianna,Wells,Female,g.wells@newmail.com,025-9261-71,116267,NULL,No Change,2020-01-01
+2020-01-09,21,Active,Oscar,Smith,Male,o.smith@newmail.com,935-1911-34,80407,NULL,No Change,2020-01-01
+2020-01-09,32,Active,Lucas,Stewart,Male,l.stewart@newmail.com,574-6739-42,160630,NULL,No Change,2020-01-01
+2020-01-09,11,Active,Lilianna,Crawford,Female,l.crawford@newmail.com,339-0865-57,148448,NULL,No Change,2020-01-01
+2020-01-09,33,Active,Amelia,Brown,Female,a.brown@newmail.com,413-0482-31,78101,NULL,No Change,2020-01-01
+2020-01-09,14,Active,Cadie,Evans,Female,c.evans@newmail.com,360-2903-44,103136,NULL,No Change,2020-01-01
+2020-01-09,42,Active,Kelvin,Bailey,Male,k.bailey@newmail.com,562-0700-89,154900,NULL,No Change,2020-01-01
+2020-01-09,2,Active,Alford,Grant,Male,a.grant@newmail.com,389-8947-85,53126,NULL,No Change,2020-01-01
+2020-01-09,30,Active,Alan,Richardson,Male,a.richardson@newmail.com,717-4445-07,155763,NULL,No Change,2020-01-01
+2020-01-09,46,Active,Maya,Foster,Female,m.foster@newmail.com,023-9093-10,94513,NULL,No Change,2020-01-01
+2020-01-09,18,Active,Eddy,Ferguson,Male,e.ferguson@newmail.com,351-1295-46,147343,NULL,No Change,2020-01-01
+2020-01-09,36,Active,Tara,Kelly,Female,t.kelly@newmail.com,524-1286-07,123628,NULL,No Change,2020-01-01
+2020-01-10,31,Active,Dexter,Mitchell,Male,d.mitchell@newmail.com,347-2261-81,100671,NULL,No Change,2020-01-01
+2020-01-10,34,Active,Florrie,Perry,Female,f.perry@newmail.com,140-5497-36,76212,NULL,No Change,2020-01-01
+2020-01-10,28,Active,Elise,Farrell,Female,e.farrell@newmail.com,485-8347-57,101616,NULL,No Change,2020-01-01
+2020-01-10,26,Active,Marcus,Casey,Male,m.casey@newmail.com,869-0917-23,44508,NULL,No Change,2020-01-01
+2020-01-10,27,Active,Adrianna,Montgomery,Female,a.montgomery@newmail.com,131-6228-32,77391,NULL,No Change,2020-01-01
+2020-01-10,44,Active,Derek,Wells,Male,d.wells@newmail.com,570-4726-83,136224,NULL,No Change,2020-01-01
+2020-01-10,12,Active,Jack,Brooks,Male,j.brooks@newmail.com,020-1068-47,77024,NULL,No Change,2020-01-01
+2020-01-10,22,Active,Tony,Hamilton,Male,t.hamilton@newmail.com,481-7914-72,125895,NULL,No Change,2020-01-01
+2020-01-10,47,Active,Kelsey,Adams,Female,k.adams@newmail.com,240-1057-30,71748,NULL,No Change,2020-01-01
+2020-01-10,1,Active,Frederick,Barnes,Male,f.barnes@newmail.com,094-8926-78,38582,NULL,No Change,2020-01-01
+2020-01-10,13,Active,Wilson,Morrison,Male,w.morrison@newmail.com,152-0725-67,38296,NULL,No Change,2020-01-01
+2020-01-10,6,Active,Alberta,Brooks,Female,a.brooks@newmail.com,896-2884-61,97078,NULL,No Change,2020-01-01
+2020-01-10,16,Active,Dale,Morgan,Male,d.morgan@newmail.com,056-1660-19,161900,NULL,No Change,2020-01-01
+2020-01-10,3,Active,Sydney,Farrell,Female,s.farrell@newmail.com,187-8343-84,151217,NULL,No Change,2020-01-01
+2020-01-10,20,Active,Lucas,Jones,Male,l.jones@newmail.com,146-8629-51,80877,NULL,No Change,2020-01-01
+2020-01-10,40,Active,Hailey,Cunningham,Female,h.cunningham@newmail.com,005-4307-69,101193,NULL,No Change,2020-01-01
+2020-01-10,48,Active,Abigail,Cole,Female,a.cole@newmail.com,536-0077-66,32619,NULL,No Change,2020-01-01
+2020-01-10,5,Active,Jared,Wright,Male,j.wright@newmail.com,256-0454-59,98258,NULL,No Change,2020-01-01
+2020-01-10,19,Active,Sawyer,Owens,Male,s.owens@newmail.com,216-0400-38,70190,NULL,No Change,2020-01-01
+2020-01-10,41,Active,Arnold,Wright,Male,a.wright@newmail.com,478-0123-70,135221,NULL,No Change,2020-01-01
+2020-01-10,15,Active,Adelaide,Owens,Female,a.owens@newmail.com,082-2307-17,130388,NULL,No Change,2020-01-01
+2020-01-10,43,Active,Elise,Perkins,Female,e.perkins@newmail.com,760-4413-39,78430,NULL,No Change,2020-01-01
+2020-01-10,37,Active,Clark,Jones,Male,c.jones@newmail.com,054-7974-05,161306,NULL,No Change,2020-01-01
+2020-01-10,9,Active,Alfred,Mason,Male,a.mason@newmail.com,718-7756-65,48496,NULL,No Change,2020-01-01
+2020-01-10,17,Active,Tiana,Cameron,Female,t.cameron@newmail.com,941-8465-88,134040,NULL,No Change,2020-01-01
+2020-01-10,35,Active,Evelyn,Howard,Female,e.howard@newmail.com,172-6900-55,141921,NULL,No Change,2020-01-01
+2020-01-10,4,Active,Rosie,Richards,Female,r.richards@newmail.com,357-9337-53,162461,NULL,No Change,2020-01-01
+2020-01-10,8,Active,Edith,Fowler,Female,e.fowler@newmail.com,507-8262-99,132468,NULL,No Change,2020-01-01
+2020-01-10,23,Active,Dale,Smith,Male,d.smith@newmail.com,022-9025-15,43457,NULL,No Change,2020-01-01
+2020-01-10,39,Active,Frederick,Howard,Male,f.howard@newmail.com,355-3311-00,188087,NULL,No Change,2020-01-01
+2020-01-10,49,Active,Melissa,Morgan,Female,m.morgan@newmail.com,020-3660-63,128964,NULL,No Change,2020-01-01
+2020-01-10,7,Active,Cherry,Harrison,Female,c.harrison@newmail.com,069-7921-78,156759,NULL,No Change,2020-01-01
+2020-01-10,10,Active,Jessica,Hamilton,Female,j.hamilton@newmail.com,670-5046-24,175777,NULL,No Change,2020-01-01
+2020-01-10,50,Active,Nicole,Harrison,Female,n.harrison@newmail.com,436-5251-31,51556,NULL,No Change,2020-01-01
+2020-01-10,45,Active,Melissa,Craig,Female,m.craig@newmail.com,270-8938-39,117043,NULL,No Change,2020-01-01
+2020-01-10,38,Active,Blake,Perkins,Male,b.perkins@newmail.com,241-1297-51,130133,NULL,No Change,2020-01-01
+2020-01-10,24,Active,Julia,Cunningham,Female,j.cunningham@newmail.com,068-3478-85,31744,NULL,No Change,2020-01-01
+2020-01-10,29,Active,Gianna,Wells,Female,g.wells@newmail.com,025-9261-71,116267,NULL,No Change,2020-01-01
+2020-01-10,21,Active,Oscar,Smith,Male,o.smith@newmail.com,935-1911-34,80407,NULL,No Change,2020-01-01
+2020-01-10,32,Active,Lucas,Stewart,Male,l.stewart@newmail.com,574-6739-42,160630,NULL,No Change,2020-01-01
+2020-01-10,11,Active,Lilianna,Crawford,Female,l.crawford@newmail.com,339-0865-57,148448,NULL,No Change,2020-01-01
+2020-01-10,33,Active,Amelia,Brown,Female,a.brown@newmail.com,413-0482-31,78101,NULL,No Change,2020-01-01
+2020-01-10,14,Active,Cadie,Evans,Female,c.evans@newmail.com,360-2903-44,103136,NULL,No Change,2020-01-01
+2020-01-10,42,Active,Kelvin,Bailey,Male,k.bailey@newmail.com,562-0700-89,154900,NULL,No Change,2020-01-01
+2020-01-10,2,Active,Alford,Grant,Male,a.grant@newmail.com,389-8947-85,53126,NULL,No Change,2020-01-01
+2020-01-10,30,Active,Alan,Richardson,Male,a.richardson@newmail.com,717-4445-07,155763,NULL,No Change,2020-01-01
+2020-01-10,46,Active,Maya,Foster,Female,m.foster@newmail.com,023-9093-10,94513,NULL,No Change,2020-01-01
+2020-01-10,18,Active,Eddy,Ferguson,Male,e.ferguson@newmail.com,351-1295-46,147343,NULL,No Change,2020-01-01
+2020-01-10,36,Active,Tara,Kelly,Female,t.kelly@newmail.com,524-1286-07,123628,NULL,No Change,2020-01-01
